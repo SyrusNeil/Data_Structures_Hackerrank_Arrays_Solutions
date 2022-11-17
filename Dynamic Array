@@ -11,4 +11,4 @@ if __name__ == "__main__":
             last_answer = sequences[seq_num][y % len(sequences[seq_num])]
             print(last_answer)
         else:
-            sequences[seq_num].append(y)
+            sequences[seq_num].append(y) 
